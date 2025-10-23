@@ -1,11 +1,10 @@
 # 👋 Ajiboye Samuel Adebayo
 
-## 💻 Full-Stack Developer | 🚀 Passionate about Fintech, APIs & Scalable Web Solutions
+## 💻 Full-Stack Developer | Scalable Web Solutions🚀
 
-📍 **Ile-Ife, Osun State, Nigeria**  
+📍 **Nigeria**  
 📧 [ajiboyeadebayo901@gmail.com](mailto:ajiboyeadebayo901@gmail.com)  
-📞 [+234 915 417 3193](https://wa.me/+2349154173193)  
-🔗 [GitHub – @Sammmy-dev](https://github.com/Sammmy-dev)
+📞 [+234 915 417 3193](https://wa.me/+2349154173193)
 
 ---
 
@@ -55,7 +54,16 @@ I enjoy collaborating on projects that merge **technology, creativity, and impac
 #### 🏢 PAXX | 2024  
 - Translated **UI designs into functional web components**  
 - Performed **CRUD operations** and built scalable RESTful APIs  
-- Collaborated on **frontend-backend integration** for smooth user experience  
+- Collaborated on **frontend-backend integration** for smooth user experience
+
+---
+
+  ### 🌟 Soft Skills  
+- Quick Learner with a Growth Mindset  
+- Problem-Solving & Debugging  
+- Team Collaboration & Effective Communication  
+- Adaptability to New Tools and Technologies  
+- Attention to Detail  
 
 ---
 
@@ -66,24 +74,14 @@ _B.Sc. Building Construction Management_
 
 ---
 
-### 🌟 Soft Skills  
-- Quick Learner with a Growth Mindset  
-- Problem-Solving & Debugging  
-- Team Collaboration & Effective Communication  
-- Adaptability to New Tools and Technologies  
-- Attention to Detail  
-
----
-
 ### 🚀 Current Focus  
-- Learning **React Native** for cross-platform mobile development  
-- Exploring **Blockchain & Fintech API Integrations** (Solana focus)  
 - Building clean, scalable full-stack applications with modern architecture  
-
+- Learning **React Native** for cross-platform mobile development
+  
 ---
 
 ### ⚡ Fun Fact  
-When I’m not coding, I love exploring **spirituality, nature, and creativity** — the inspiration behind my website **Spirit Nature TV**.  
+When I’m not coding, I love exploring **sport, nature, and creativity**.  
 
 ---
 
@@ -94,8 +92,3 @@ When I’m not coding, I love exploring **spirituality, nature, and creativity**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sammmy-dev&theme=tokyonight)
 
 ---
-
-### 📫 Let’s Connect  
-💬 [Email Me](mailto:ajiboyeadebayo901@gmail.com)  
-🌍 [GitHub – @Sammmy-dev](https://github.com/Sammmy-dev)  
-📱 [WhatsApp](https://wa.me/+2349154173193)
