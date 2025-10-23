@@ -22,6 +22,7 @@ I enjoy collaborating on projects that merge **technology, creativity, and impac
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=zustand&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
